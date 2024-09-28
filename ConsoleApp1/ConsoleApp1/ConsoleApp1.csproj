@@ -50,8 +50,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="computer.jpg" />
-    <Content Include="draw.jpg" />
     <Content Include="site.html" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
